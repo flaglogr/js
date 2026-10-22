@@ -1,5 +1,7 @@
 # flaglogr-js
 
+**NOTE:** This project is in early stages of development
+
 js sdk for flaglogr
 Copyright (C) 2026  flaglogr contributors
 
